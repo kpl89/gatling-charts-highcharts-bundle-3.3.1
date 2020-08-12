@@ -1,0 +1,1 @@
+[{"containerId":"GTM-P6HT97","eventName":"gtm.dom","eventTimestamp":1594859183460,"tagName":"Brand - DoubleClick - Zillow Universal Tag","tagId":53,"tagStatus":"success","tagExecutionTime":400},{"containerId":"GTM-P6HT97","eventName":"gtm.dom","eventTimestamp":1594859183460,"tagName":"Brand - DoubleClick - Homepage","tagId":58,"tagStatus":"success","tagExecutionTime":377}]

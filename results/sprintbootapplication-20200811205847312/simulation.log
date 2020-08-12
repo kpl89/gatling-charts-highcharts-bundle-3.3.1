@@ -1,0 +1,41 @@
+RUN	SprintBootApplication	sprintbootapplication	1597179527312	asf	3.3.1
+USER	SprintBootApplication	8	START	1597179529133	1597179529133
+USER	SprintBootApplication	5	START	1597179529133	1597179529133
+USER	SprintBootApplication	3	START	1597179529132	1597179529132
+USER	SprintBootApplication	7	START	1597179529133	1597179529133
+USER	SprintBootApplication	4	START	1597179529132	1597179529132
+USER	SprintBootApplication	10	START	1597179529133	1597179529133
+USER	SprintBootApplication	6	START	1597179529133	1597179529133
+USER	SprintBootApplication	2	START	1597179529132	1597179529132
+USER	SprintBootApplication	9	START	1597179529133	1597179529133
+USER	SprintBootApplication	1	START	1597179529132	1597179529132
+REQUEST	10		request_0	1597179529201	1597179529214	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	2		request_0	1597179529201	1597179529213	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	6		request_0	1597179529201	1597179529214	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	3		request_0	1597179529201	1597179529215	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	7		request_0	1597179529201	1597179529215	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	9		request_0	1597179529201	1597179529213	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	4		request_0	1597179529201	1597179529215	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	8		request_0	1597179529201	1597179529214	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	1		request_0	1597179529201	1597179529214	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	5		request_0	1597179529201	1597179529214	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	6		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	10		request_5	1597179531241	1597179531242	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	8		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	9		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	1		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	4		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	2		request_5	1597179531241	1597179531242	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	5		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	7		request_5	1597179531241	1597179531243	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+REQUEST	3		request_5	1597179531241	1597179531244	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: /127.0.0.1:19001
+USER	SprintBootApplication	5	END	1597179529133	1597179531257
+USER	SprintBootApplication	2	END	1597179529132	1597179531257
+USER	SprintBootApplication	6	END	1597179529133	1597179531257
+USER	SprintBootApplication	7	END	1597179529133	1597179531257
+USER	SprintBootApplication	1	END	1597179529132	1597179531257
+USER	SprintBootApplication	10	END	1597179529133	1597179531257
+USER	SprintBootApplication	3	END	1597179529132	1597179531257
+USER	SprintBootApplication	9	END	1597179529133	1597179531257
+USER	SprintBootApplication	8	END	1597179529133	1597179531257
+USER	SprintBootApplication	4	END	1597179529132	1597179531258

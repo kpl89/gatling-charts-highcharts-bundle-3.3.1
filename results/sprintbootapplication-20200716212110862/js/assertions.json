@@ -1,0 +1,10 @@
+{
+  "simulation": "SprintBootApplication",
+  "simulationId": "sprintbootapplication",
+  "start": 1594934470862,
+  "description": "",
+  "scenarios": ["SprintBootApplication"],
+  "assertions": [
+
+  ]
+}
