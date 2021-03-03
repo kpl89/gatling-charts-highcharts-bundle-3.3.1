@@ -57,5 +57,5 @@ class GatewayLoadTestScn1 extends Simulation {
 			.get("/webFluxDemo/getWith1sLatency")
 			.headers(headers_0))
 
-	setUp(scn.inject(atOnceUsers(20))).protocols(httpProtocol)
+	setUp(scn.inject(rampUsers(100000).during(1000))).protocols(httpProtocol)
 }
