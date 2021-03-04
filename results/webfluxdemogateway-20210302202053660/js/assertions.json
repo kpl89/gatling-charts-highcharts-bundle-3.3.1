@@ -1,0 +1,10 @@
+{
+  "simulation": "WebFluxDemoGateway",
+  "simulationId": "webfluxdemogateway",
+  "start": 1614716453660,
+  "description": "",
+  "scenarios": ["WebFluxDemoGateway"],
+  "assertions": [
+
+  ]
+}
