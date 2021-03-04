@@ -5,7 +5,7 @@ import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 import io.gatling.jdbc.Predef._
 
-class GatewayLoadTestScn1 extends Simulation {
+class GatewayLoadTestScn2 extends Simulation {
 
 	val httpProtocol = http
 		.baseUrl("http://orb-ac0-gat-001:19001")
